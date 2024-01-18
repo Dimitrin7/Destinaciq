@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\bin\Debug\Destinaciq.exe.config
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\bin\Debug\Destinaciq.exe
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\bin\Debug\Destinaciq.pdb
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.Form1.resources
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.Properties.Resources.resources
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.exe
+C:\Users\HP\source\repos\Destinaciq\Destinaciq\obj\Debug\Destinaciq.pdb
